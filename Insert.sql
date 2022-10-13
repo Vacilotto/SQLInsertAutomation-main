@@ -1,5 +1,18 @@
-insert (col1,col2,col3,col4) into table xyz values('a','b','c','d
-');
-insert (col1,col2,col3,col4) into table xyz values('1','2','3','4
-');
-insert (col1,col2,col3,col4) into table xyz values('a','c','b','v');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z01-NBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z01-NEW','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z01-SBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z02-NBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z02-NEW','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z02-SBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z03-NBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z03-NEW','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z03-SBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z04-NBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z04-NEW','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z04-SBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z05-NBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z05-NEW','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z05-SBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z06-NBD','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z06-NEW','CS-FSL-APJ','0');
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values('Z06-SBD','CS-FSL-APJ','0');

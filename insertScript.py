@@ -9,7 +9,7 @@ print(query)
 print('---------Result---------')
 text = ""
 for x in f:
-    x = '\'' + x.replace(',','\',\'') + '\''
+    x = '\'' + x.replace(',','\',\'').replace('\n','') + '\''
     text = text+query.replace('{values}',x.strip())+';\n'
 print(text)
 
