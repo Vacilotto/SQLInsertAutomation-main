@@ -1,0 +1,1 @@
+insert (planning_location_id,planning_region,ship_time) into table frontier.planning_location values({values})

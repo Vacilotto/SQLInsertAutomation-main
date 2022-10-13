@@ -1,0 +1,1 @@
+update {table} set ( {values} ) where {parameter} = {p}
